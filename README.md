@@ -17,7 +17,7 @@ A desktop-based application developed using Java (Swing) and MySQL for managing 
 - JDBC
 
 ## 📄 Report
-Detailed report: `LibraryManagementSystem_Report.docx` (attached in repo)
+Detailed report: `Report_LMSystem.docx` (attached in repo)
 
 ## 🔗 References
 - Java: The Complete Reference – Herbert Schildt  
